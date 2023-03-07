@@ -11,7 +11,7 @@ export default function Navbar(props) {
         {props.title}
       </h1>
       <ul>
-      <HashLink to={"/#home"}>Home</HashLink>
+      <HashLink to={"/"}>Home</HashLink>
         <HashLink to={"/#what"}>Cultural Significance</HashLink>
         <HashLink to={"/#brands"}>Celebrations</HashLink>
         <Link to="/about">About</Link>
