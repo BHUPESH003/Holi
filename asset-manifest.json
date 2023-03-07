@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Holi/static/css/main.093f8b8a.css",
+    "main.js": "/Holi/static/js/main.bafa2f70.js",
+    "static/media/narshima.jpeg": "/Holi/static/media/narshima.da6a696601f0e268f34e.jpeg",
+    "static/media/radha.jpeg": "/Holi/static/media/radha.4b7ea57bb833fefd1344.jpeg",
+    "static/media/Bhupesh.jpg": "/Holi/static/media/Bhupesh.2fae80f0f61785968e54.jpg",
+    "static/media/radhaKrishna.jpeg": "/Holi/static/media/radhaKrishna.1c6cdb132615ba67540f.jpeg",
+    "static/media/phul.jpeg": "/Holi/static/media/phul.a385f2bef9748e593b8b.jpeg",
+    "static/media/3.jpeg": "/Holi/static/media/3.64a3a5465da1f20f0bd1.jpeg",
+    "static/media/gulal.jpeg": "/Holi/static/media/gulal.fb60f41262b9dc163dd5.jpeg",
+    "static/media/lath.jpeg": "/Holi/static/media/lath.f2b0c75af31f26b5b8a4.jpeg",
+    "static/media/rang.jpeg": "/Holi/static/media/rang.403ffa4d8031cef371d6.jpeg",
+    "index.html": "/Holi/index.html",
+    "main.093f8b8a.css.map": "/Holi/static/css/main.093f8b8a.css.map",
+    "main.bafa2f70.js.map": "/Holi/static/js/main.bafa2f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.093f8b8a.css",
+    "static/js/main.bafa2f70.js"
+  ]
+}
