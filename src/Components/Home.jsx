@@ -1,5 +1,4 @@
 import React from 'react'
-import bg from '../assets/radha.jpeg'
 import bg1 from '../assets/radhaKrishna.jpeg'
 import bg2 from '../assets/narshima.jpeg'
 import bg3 from '../assets/shiva.jpeg'
