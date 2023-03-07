@@ -9,7 +9,7 @@ import './Styles/Colors.scss'
 // import './Styles/Contact.scss'
 import './Styles/Home.scss'
 import './Styles/Footer.scss'
-// import './Styles/MediaQuery.scss'
+import './Styles/MediaQuery.scss'
 import Footer from "./Footer"
 import About from "./Components/About"
  
